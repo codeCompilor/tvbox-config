@@ -150,8 +150,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/bili-0-29a4ac47727bfdd8.json",
-      "jar": "https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/bili-3b39d08338d1fd4e.jar;md5;19a2394581c78bee735242b9dc009058"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/bili-0-29a4ac47727bfdd8.json",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/bili-3b39d08338d1fd4e.jar;md5;19a2394581c78bee735242b9dc009058"
     },
     {
       "key": "相声小品",
@@ -161,8 +161,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/bili-1-e0551345b0e94eef.json",
-      "jar": "https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/bili-3b39d08338d1fd4e.jar;md5;19a2394581c78bee735242b9dc009058"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/bili-1-e0551345b0e94eef.json",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/bili-3b39d08338d1fd4e.jar;md5;19a2394581c78bee735242b9dc009058"
     },
     {
       "key": "演唱会",
@@ -172,8 +172,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/bili-2-b8e41005a21b6d71.json",
-      "jar": "https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/bili-3b39d08338d1fd4e.jar;md5;19a2394581c78bee735242b9dc009058"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/bili-2-b8e41005a21b6d71.json",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/bili-3b39d08338d1fd4e.jar;md5;19a2394581c78bee735242b9dc009058"
     },
     {
       "key": "MTV",
@@ -183,8 +183,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/bili-3-5c609cf402f1d03b.json",
-      "jar": "https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/bili-3b39d08338d1fd4e.jar;md5;19a2394581c78bee735242b9dc009058"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/bili-3-5c609cf402f1d03b.json",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/bili-3b39d08338d1fd4e.jar;md5;19a2394581c78bee735242b9dc009058"
     },
     {
       "key": "哔哩哔哩",
@@ -194,8 +194,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/bili-4-c6bf54481866c845.json",
-      "jar": "https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/bili-3b39d08338d1fd4e.jar;md5;19a2394581c78bee735242b9dc009058"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/bili-4-c6bf54481866c845.json",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/bili-3b39d08338d1fd4e.jar;md5;19a2394581c78bee735242b9dc009058"
     },
     {
       "key": "影视解说",
@@ -205,8 +205,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/bili-5-e9570f094d76f957.json",
-      "jar": "https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/bili-3b39d08338d1fd4e.jar;md5;19a2394581c78bee735242b9dc009058"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/bili-5-e9570f094d76f957.json",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/bili-3b39d08338d1fd4e.jar;md5;19a2394581c78bee735242b9dc009058"
     },
     {
       "key": "少儿教育",
@@ -221,9 +221,9 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/bili-6-4c395db3742d9b8f.json"
+        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/bili-6-4c395db3742d9b8f.json"
       },
-      "jar": "https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/luban-ea4b41508b55c6bb.jar;md5;29a9f36b2e4d386a5849aaf80d56662d"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/luban-ea4b41508b55c6bb.jar;md5;29a9f36b2e4d386a5849aaf80d56662d"
     },
     {
       "key": "小学课堂",
@@ -238,9 +238,9 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/bili-7-cc91c00e9d85ae12.json"
+        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/bili-7-cc91c00e9d85ae12.json"
       },
-      "jar": "https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/luban-ea4b41508b55c6bb.jar;md5;29a9f36b2e4d386a5849aaf80d56662d"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/luban-ea4b41508b55c6bb.jar;md5;29a9f36b2e4d386a5849aaf80d56662d"
     },
     {
       "key": "初中课堂",
@@ -255,9 +255,9 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/bili-8-71a7d523d2754831.json"
+        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/bili-8-71a7d523d2754831.json"
       },
-      "jar": "https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/luban-ea4b41508b55c6bb.jar;md5;29a9f36b2e4d386a5849aaf80d56662d"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/luban-ea4b41508b55c6bb.jar;md5;29a9f36b2e4d386a5849aaf80d56662d"
     },
     {
       "key": "高中教育",
@@ -272,9 +272,9 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/bili-9-dfb53665f5b058a7.json"
+        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/bili-9-dfb53665f5b058a7.json"
       },
-      "jar": "https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/luban-ea4b41508b55c6bb.jar;md5;29a9f36b2e4d386a5849aaf80d56662d"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/luban-ea4b41508b55c6bb.jar;md5;29a9f36b2e4d386a5849aaf80d56662d"
     },
     {
       "key": "本地",
@@ -462,12 +462,12 @@
   ],
   "parses": [],
   "flags": [],
-  "spider": "https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/luban-ea4b41508b55c6bb.jar;md5;29a9f36b2e4d386a5849aaf80d56662d",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/larry-biu/tvbox-config/main/assets/luban-ea4b41508b55c6bb.jar;md5;29a9f36b2e4d386a5849aaf80d56662d",
   "lives": [
     {
       "name": "家庭直播",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/larry-biu/tvbox-config/main/live/live.txt"
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/larry-biu/tvbox-config/main/live/live.txt"
     }
   ],
   "rules": []
