@@ -91,80 +91,6 @@
       ]
     },
     {
-      "key": "玩偶哥哥",
-      "name": "玩偶哥哥·网盘",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://www.wogg.net",
-          "https://wogg.xxooo.cf",
-          "https://woggpan.xxooo.cf"
-        ]
-      }
-    },
-    {
-      "key": "木偶",
-      "name": "木偶·网盘",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://www.muoua.top",
-          "https://666.666291.xyz",
-          "https://333.333291.xyz",
-          "https://www.muou.asia"
-        ]
-      }
-    },
-    {
-      "key": "多多",
-      "name": "多多·网盘",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://tv.yydsys.top",
-          "https://tv.yydsys.cc",
-          "https://tv.214521.xyz"
-        ]
-      }
-    },
-    {
-      "key": "戏 曲",
-      "name": "戏曲",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://github.com/larry-biu/tvbox-config/blob/main/assets/bili-0-29a4ac47727bfdd8.json",
-      "jar": "https://gh-proxy.com/https://github.com/larry-biu/tvbox-config/blob/main/assets/bili-3b39d08338d1fd4e.jar;md5;19a2394581c78bee735242b9dc009058"
-    },
-    {
-      "key": "相声小品",
-      "name": "相声小品",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://github.com/larry-biu/tvbox-config/blob/main/assets/bili-1-e0551345b0e94eef.json",
-      "jar": "https://gh-proxy.com/https://github.com/larry-biu/tvbox-config/blob/main/assets/bili-3b39d08338d1fd4e.jar;md5;19a2394581c78bee735242b9dc009058"
-    },
-    {
       "key": "演唱会",
       "name": "演唱会",
       "type": 3,
@@ -185,96 +111,6 @@
       "filterable": 0,
       "ext": "https://gh-proxy.com/https://github.com/larry-biu/tvbox-config/blob/main/assets/bili-3-5c609cf402f1d03b.json",
       "jar": "https://gh-proxy.com/https://github.com/larry-biu/tvbox-config/blob/main/assets/bili-3b39d08338d1fd4e.jar;md5;19a2394581c78bee735242b9dc009058"
-    },
-    {
-      "key": "哔哩哔哩",
-      "name": "哔哩哔哩",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://github.com/larry-biu/tvbox-config/blob/main/assets/bili-4-c6bf54481866c845.json",
-      "jar": "https://gh-proxy.com/https://github.com/larry-biu/tvbox-config/blob/main/assets/bili-3b39d08338d1fd4e.jar;md5;19a2394581c78bee735242b9dc009058"
-    },
-    {
-      "key": "影视解说",
-      "name": "影视解说",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://github.com/larry-biu/tvbox-config/blob/main/assets/bili-5-e9570f094d76f957.json",
-      "jar": "https://gh-proxy.com/https://github.com/larry-biu/tvbox-config/blob/main/assets/bili-3b39d08338d1fd4e.jar;md5;19a2394581c78bee735242b9dc009058"
-    },
-    {
-      "key": "少儿教育",
-      "name": "少儿教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://gh-proxy.com/https://github.com/larry-biu/tvbox-config/blob/main/assets/bili-6-4c395db3742d9b8f.json"
-      },
-      "jar": "https://gh-proxy.com/https://github.com/larry-biu/tvbox-config/blob/main/assets/luban-ea4b41508b55c6bb.jar;md5;29a9f36b2e4d386a5849aaf80d56662d"
-    },
-    {
-      "key": "小学课堂",
-      "name": "小学课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://gh-proxy.com/https://github.com/larry-biu/tvbox-config/blob/main/assets/bili-7-cc91c00e9d85ae12.json"
-      },
-      "jar": "https://gh-proxy.com/https://github.com/larry-biu/tvbox-config/blob/main/assets/luban-ea4b41508b55c6bb.jar;md5;29a9f36b2e4d386a5849aaf80d56662d"
-    },
-    {
-      "key": "初中课堂",
-      "name": "初中课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://gh-proxy.com/https://github.com/larry-biu/tvbox-config/blob/main/assets/bili-8-71a7d523d2754831.json"
-      },
-      "jar": "https://gh-proxy.com/https://github.com/larry-biu/tvbox-config/blob/main/assets/luban-ea4b41508b55c6bb.jar;md5;29a9f36b2e4d386a5849aaf80d56662d"
-    },
-    {
-      "key": "高中教育",
-      "name": "高中教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://gh-proxy.com/https://github.com/larry-biu/tvbox-config/blob/main/assets/bili-9-dfb53665f5b058a7.json"
-      },
-      "jar": "https://gh-proxy.com/https://github.com/larry-biu/tvbox-config/blob/main/assets/luban-ea4b41508b55c6bb.jar;md5;29a9f36b2e4d386a5849aaf80d56662d"
     },
     {
       "key": "本地",
@@ -467,7 +303,7 @@
     {
       "name": "家庭直播",
       "type": 0,
-      "url": "https://larry-biu.github.io/tvbox-config/live/live.txt"
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/larry-biu/tvbox-config/main/live/live.txt"
     }
   ],
   "rules": []
